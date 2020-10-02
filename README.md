@@ -4,7 +4,6 @@
 
 [+]Instagram : https://www.instagram.com/khushaliiishahh/
 
-
 [+]LinkedIn : https://www.linkedin.com/in/khushalishah7/
 
 
