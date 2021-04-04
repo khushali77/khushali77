@@ -6,7 +6,9 @@
 
 [+]LinkedIn : https://www.linkedin.com/in/khushalishah7/
 
+[+]Twitter : https://twitter.com/khushaliiishahh
 
+Have a look at this!
 ![Github stats](https://github-readme-stats.vercel.app/api?username=khushali77&theme=highcontrast&show_icons=true&count_private=true)
 
 
